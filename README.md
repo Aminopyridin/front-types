@@ -1,0 +1,2 @@
+Доклад на RndTechTalk
+
