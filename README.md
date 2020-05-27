@@ -1,3 +1,3 @@
-Доклад на RndTechTalk
+Доклад о типах фронтендеров
 
-[Презентация](https://aminopyridin.github.io/rnd-meetup/#/)
+[Презентация](https://aminopyridin.github.io/front-types/#/)
